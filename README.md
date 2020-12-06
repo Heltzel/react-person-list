@@ -4,4 +4,4 @@ short simple exercise project
 ### Dummy api:
 https://randomuser.me/
 
-# react-person-list
+
